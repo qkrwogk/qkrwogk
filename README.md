@@ -23,4 +23,4 @@
 
 ### STATS
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjha999)](https://solved.ac/profile/pjha999/)
-![JAEHA PARK's GitHub stats](https://github-readme-stats.vercel.app/api?username=soddokayo&show_icons=true&theme=radical)
+![JAEHA PARK's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrwogk&show_icons=true&theme=radical)
