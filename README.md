@@ -27,3 +27,9 @@
 ### STATS
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjha999)](https://solved.ac/profile/pjha999/)
 ![JAEHA PARK's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrwogk&show_icons=true&theme=radical)
+
+### 이력서
+
+- [이력서(개발)](https://github.com/qkrwogk/qkrwogk/blob/main/%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A7%E1%86%A8%E1%84%89%E1%85%A5%20%E1%84%87%E1%85%A1%E1%86%A8%E1%84%8C%E1%85%A2%E1%84%92%E1%85%A1%20(%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF).pdf)
+- [이력서(보안)](https://github.com/qkrwogk/qkrwogk/blob/main/%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A7%E1%86%A8%E1%84%89%E1%85%A5%20%E1%84%87%E1%85%A1%E1%86%A8%E1%84%8C%E1%85%A2%E1%84%92%E1%85%A1%20(%E1%84%87%E1%85%A9%E1%84%8B%E1%85%A1%E1%86%AB).pdf)
+- [경력기술서(보안)](https://github.com/qkrwogk/qkrwogk/blob/main/%E1%84%80%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A7%E1%86%A8%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF%E1%84%89%E1%85%A5%20%E1%84%87%E1%85%A1%E1%86%A8%E1%84%8C%E1%85%A2%E1%84%92%E1%85%A1.pdf)
