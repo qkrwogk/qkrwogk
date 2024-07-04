@@ -8,6 +8,7 @@
 - 대한민국 국군 사이버전문인력 1기 - 2016 ~ 2023
 - 고려대학교 일반대학원 정보보안학과 - 2021 ~ 2024
 - 네이버 부스트캠프 웹・모바일 8기 챌린지/멤버십 - 2023 ~ 2023
+- 현대자동차 AVP본부 차량사이버보안개발팀 - 2024 ~ now
 
 ### SKILLS
 ![C/C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
